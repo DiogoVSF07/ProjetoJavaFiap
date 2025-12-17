@@ -1,6 +1,7 @@
 package org.fiap.produtos.repository;
 
 import org.fiap.produtos.model.Categoria;
+import org.fiap.produtos.model.Produto;
 
 import javax.swing.*;
 import java.util.List;
@@ -47,4 +48,5 @@ public class CategoriaCollectionRepository {
             return null;
         }
     }
+
 }
